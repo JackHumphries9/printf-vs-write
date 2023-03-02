@@ -1,3 +1,4 @@
+rm -rf bin
 mkdir bin
 
 # Build each file in the src directory
